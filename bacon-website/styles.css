@@ -1,0 +1,18 @@
+h1{
+    color: blue;
+    font-size: 100px;
+}
+/*
+img{
+    background-color: red;
+}
+*/
+.bacon{
+    background-color: gray;
+}
+.bacon:hover{
+    background-color: blueviolet;
+}
+.teddy{
+    background-color: lightcoral;
+}

@@ -1,0 +1,89 @@
+body{
+    background-color: seashell;
+    text-align: center;
+    margin: 0;
+    font-size: 1.3em;
+}
+
+.intro{
+    background-color: #c8e0f0;
+    padding: 5%;
+}
+
+.cloud-img{
+    height: 10%;
+    width: 15%;
+}
+
+.mountain{
+    margin: 5% auto 0 auto;
+    height: 20%;
+    width: 40%;
+    display: block;
+}
+
+.profile{
+    border-radius: 100%;
+    height: 12em;
+    width: 13em;
+    margin-top: 5%;
+}
+
+.books-img{
+    border-radius: 50%;
+    width: 13em;
+    height: 12em;
+}
+
+.name-tag{
+    font-family: cursive;
+    font-size: 2em;
+}
+
+h2{
+    color: #3BACB6;
+}
+
+hr{
+    background-color: seashell;
+    border-color: rgb(181, 177, 177);
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 10px;
+    height: 0px;
+    width: 4%;
+    margin: auto;
+    margin-top: 6%;
+    margin-bottom: 6%;
+}
+
+.btn {
+    -webkit-border-radius: 35;
+    -moz-border-radius: 35;
+    border-radius: 35px;
+    text-shadow: 0px 0px 2px #826a82;
+    font-family: Georgia;
+    color: #f5faf2;
+    font-size: 1em;
+    background: #43a6e8;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+}
+  
+.btn:hover {
+    background: #1e7eba;
+    text-decoration: none;
+}
+
+.footnote{
+    background-color: #99cbec;
+    width: 100%;
+    height: 4rem;
+    margin-top: 1em;
+    padding: 2em 0 0 0;
+}
+
+span{
+    margin-right: 3%;
+    color: rgb(255, 253, 253);
+}

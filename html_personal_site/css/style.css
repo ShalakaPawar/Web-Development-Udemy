@@ -1,0 +1,38 @@
+body{
+    background-color:#F2EBE9;
+    margin: 2%;
+}
+hr{
+    background-color: antiquewhite;
+    border-color: grey;
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 10px;
+    height: 0px;
+    width: 4%;
+    margin: auto;
+    margin-top: 6%;
+    margin-bottom: 6%;
+}
+h2{
+    color: #3BACB6;
+}
+h3{
+    color: #3BACB6;
+}
+/***********************************************************************/
+.profile-photo{
+    border-radius: 100%;
+    width: 20%;
+    height: 41%;
+    float: left;
+    margin-right: 5%;
+}
+
+.profile-photo:hover{
+    background-color: red;
+}
+.intro{
+    padding-top: 4%;
+
+}
