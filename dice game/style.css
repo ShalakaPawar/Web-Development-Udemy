@@ -1,0 +1,35 @@
+body{
+    background-color: #10ac84;
+    text-align: center;   
+    margin-top: 3%;
+}
+
+.header{
+    font-family: 'Lobster', cursive;
+    color: rgb(43, 30, 30);
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-content: space-around;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0 0 0 0;
+
+}
+
+.player{
+    font-weight: 499;
+    width: 35%;
+    margin: 0 0 1% 0;
+}
+
+.dice-image{
+    width: 50%;
+    height: 100%;
+    margin: 0 0 1% 0;
+}
+
+h6{
+    font-family: 'Poiret One', cursive;
+}
