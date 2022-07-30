@@ -3,7 +3,7 @@ function get_bmi(weight, height){
     console.log(bmi);
     bmi = (weight / Math.pow( (height), 2 )).toFixed(1);
     console.log(bmi);
-    return get_bmi;
+    return bmi;
 }
 //weight in kg
 //height in meters
