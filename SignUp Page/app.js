@@ -53,7 +53,7 @@ app.post("/backtomain", function(req, resp){
     resp.redirect("/");
 });
 
-app.listen(port, () => console.log("Server running on port 3000..."));
+app.listen(process.env.PORT || port, () => console.log("Server running on port 3000..."));
 
 
 //8708fac43e27eb1f2e9925f1c624e8f4-us10
